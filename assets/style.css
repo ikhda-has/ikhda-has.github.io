@@ -1,0 +1,20 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color:#fff6a4;
+}
+
+.social-media {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+.social-media a i {
+    color: sandybrown;
+}
+
+#skills {
+    background-color:#fff6a4
+}
+
+.section {
+    padding-top: 5rem;
+}
